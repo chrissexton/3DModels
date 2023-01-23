@@ -37,8 +37,6 @@ A parametric screwdriver holder based on some designs I've seen online. I printe
 
 A customization of [Gift Box Customizer](https://www.thingiverse.com/thing:1238814) on Thingiverse.
 
-Just doodling with gears from the [BOSL2 library](https://github.com/revarbat/BOSL2/wiki).
-
 ## Router Shim
 
 ![router shim](img/routershim.png)
@@ -54,4 +52,6 @@ A quick icosahedron to use as a projectile for my [Trebuchette](https://www.kick
 ## Gear
 
 ![Gear](img/gear.png)
+
+Just doodling with gears from the [BOSL2 library](https://github.com/revarbat/BOSL2/wiki).
 
