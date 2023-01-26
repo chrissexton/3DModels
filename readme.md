@@ -1,4 +1,4 @@
-# OpenSCAD Models
+# 3D Models
 
 Just some models I've either made or customized along the way.
 
