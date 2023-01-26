@@ -4,7 +4,7 @@ Just some models I've either made or customized along the way.
 
 ## Triscuit Guard
 
-![Triscuit Guard](triscuit-guard/TriscuitGuard.png)
+![Triscuit Guard](triscuit-guard/TriscuitGuard-photo.png)
 
 [TriscuitGuard.f3d](triscuit-guard/TriscuitGuard.f3d)/[stl](triscuit-guard/TriscuitGuard.stl): A Fusion 360 version of the below model. This is finished and printed, though the current size is incorrect. Sizes are parametric, so it'll just be a matter of reprinting with new parameters.
 
@@ -20,19 +20,19 @@ Left to do:
 
 ## Shelf Pin
 
-![shelf pin](pin/pin.png)
+![shelf pin](pin/pin-photo.png)
 
 [pin.scad](pin/pin.scad): [Shelf pins](https://www.printables.com/model/352792-shelf-bracket-pin) that I made to replace broken pins in my cabinets. They seem to be hardy and doing the job. These were my first "real" project designed from scratch.
 
 ## Pliers Rack
 
-![pliers rack](pliers/pliers.png)
+![pliers rack](pliers/pliers-photo.png)
 
 [pliers.scad](pliers/pliers.scad): A pliers rack that I made from scratch for my tool wall.
 
 ## Screwdriver Holder
 
-![screwdriver rack](screwdriver-holder/screwdriver-holder.png)
+![screwdriver rack](screwdriver-holder/screwdriver-holder-photo.png)
 
 [screwdriver-holder.scad](screwdriver-holder/screwdriver-holder.scad): A parametric screwdriver holder based on some designs I've seen online. I printed about 5 of these for the tool wall, and they work great.
 
@@ -44,7 +44,7 @@ Left to do:
 
 ## Router Shim
 
-![router shim](routershim/routershim.png)
+![router shim](routershim/routershim-photo.png)
 
 [routershim.scad](routershim/routershim.scad): A small shim to scoot the router forward a bit in its mount for my [Maslow CNC](https://www.maslowcnc.com).
 
