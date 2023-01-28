@@ -2,6 +2,12 @@
 
 Just some models I've either made or customized along the way.
 
+## Yahtzee To Go
+
+![Yahtzee To Go](yahtzee-to-go/yahtzee-closed-open.png)
+
+This started with [Mini Travel Yahtzee](https://www.thingiverse.com/thing:4637069) on Thingiverse, but I decided I wanted some changes. I'm not a fan of folding the scorecards, so I put the clip on. Additionally, I wanted a full size pen and D&D sized D6 dice.
+
 ## Triscuit Guard
 
 ![Triscuit Guard](triscuit-guard/TriscuitGuard-photo.png)
