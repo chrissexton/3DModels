@@ -2,11 +2,17 @@
 
 Just some models I've either made or customized along the way.
 
+## Tervis Holder
+
+![Tervis Holder](tervis-holder/TervisHolder.png)
+
+[TervisHolder.f3d](tervis-holder/TervisHolder.f3d)/[stl](tervis-holder/TervisHolder.stl): A quick sleeve to hold a 24oz Tervis tumbler. The idea is to sticky it to a table so that the cats can't knock them over quite as easily.
+
 ## Yahtzee To Go
 
 ![Yahtzee To Go](yahtzee-to-go/yahtzee-closed-open.png)
 
-This started with [Mini Travel Yahtzee](https://www.thingiverse.com/thing:4637069) on Thingiverse, but I decided I wanted some changes. I'm not a fan of folding the scorecards, so I put the clip on. Additionally, I wanted a full size pen and D&D sized D6 dice.
+[yahtzee.f3d](yahtzee-to-go/yahtzee.f3d)/[YahtzeeBody.stl](yahtzee-to-go/YahtzeeBody.stl)/[YahtzeeLid.stl](yahtzee-to-go/YahtzeeLid.stl): This started with [Mini Travel Yahtzee](https://www.thingiverse.com/thing:4637069) on Thingiverse, but I decided I wanted some changes. I'm not a fan of folding the scorecards, so I put the clip on. Additionally, I wanted a full size pen and D&D sized D6 dice.
 
 ## Triscuit Guard
 
