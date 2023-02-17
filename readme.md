@@ -2,6 +2,12 @@
 
 Just some models I've either made or customized along the way.
 
+## Crokinole Holder
+
+![Crokinole Holder](crokinole-holder/CrokinoleHolder.png)
+
+[CrokinoleHolder.f3d](crokinole-holder/CrokinoleHolder.f3d)/[stl](crokinole-holder/CrokinoleHolder.stl): A disc holder for 20's or storage for a Mayday crokinole board. Remix of [Crokinole Counter 20](https://www.thingiverse.com/thing:2835630) as the sizes in that model weren't quite right for my board.
+
 ## Tervis Holder
 
 ![Tervis Holder](tervis-holder/TervisHolder.png)
